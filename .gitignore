@@ -12,6 +12,8 @@ web-build/
 /lib/counter
 /lib/exceptions
 /lib/redux
+/lib/authentication
+# /lib/apptheme
 
 # Native
 *.orig.*
