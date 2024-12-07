@@ -7,8 +7,14 @@ node_modules/
 .expo/
 dist/
 web-build/
-/lib/FirebaseCRUD/components/firebase.js
-/lib
+/lib/FirebaseCRUD
+# /lib/apptheme
+/lib/applanguage
+/lib/counter
+/lib/exceptions
+/lib/redux
+/lib/authentication
+
 # Native
 *.orig.*
 *.jks
