@@ -8,12 +8,12 @@ node_modules/
 dist/
 web-build/
 /lib/FirebaseCRUD
-# /lib/apptheme
 /lib/applanguage
 /lib/counter
 /lib/exceptions
 /lib/redux
-/lib/authentication
+/lib/auth
+# /lib/apptheme
 
 # Native
 *.orig.*
