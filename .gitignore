@@ -12,7 +12,7 @@ web-build/
 /lib/counter
 /lib/exceptions
 /lib/redux
-/lib/authentication
+/lib/auth
 # /lib/apptheme
 
 # Native
