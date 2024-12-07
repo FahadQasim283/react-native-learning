@@ -9,11 +9,11 @@ dist/
 web-build/
 /lib/FirebaseCRUD
 /lib/applanguage
-/lib/counter
+# /lib/counter
 /lib/exceptions
 /lib/redux
 /lib/auth
-# /lib/apptheme
+/lib/apptheme
 
 # Native
 *.orig.*

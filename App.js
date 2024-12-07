@@ -1,12 +1,12 @@
 import React from "react";
-import { ThemeProvider } from "./lib/apptheme/themecontext";
-import ThemeScreen from "./lib/apptheme/themescreen";
+import {CounterProvider } from "./lib/counter/countercontext";
+import Counter from "./lib/counter/counter";
 
 const App = () => {
   return (
-    <ThemeProvider>
-        <ThemeScreen />
-    </ThemeProvider>
+    <CounterProvider>
+        <Counter />
+    </CounterProvider>
   );
 };
 export default App;
